@@ -48,7 +48,7 @@ module Arduino.Nano
     -- * UART
     , uart
     -- * Clock
-    -- | Uses TCNT1 on the Uno to make things happend at specific time
+    -- | Uses TCNT1 on the Nano to make things happend at specific time
     -- intervals.
     , timerDelta
     , every
